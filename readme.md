@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="to.do" src="https://user-images.githubusercontent.com/45167583/142959320-88c1a6de-4a6b-482f-91ec-1b248cee7d1c.png" width="120px">
+  <img alt="RocketShoes" src="https://user-images.githubusercontent.com/45167583/142959320-88c1a6de-4a6b-482f-91ec-1b248cee7d1c.png" width="120px">
 </p>
 
 ## 🧪 Technologies
