@@ -24,20 +24,20 @@ This project was developed using the following technologies:
 
 ## 🚀 Getting started
 
-Clone the project and access the folder
-
-```bash
-$ git clone https://github.com/YuriFarnesio/RocketShoes.git && cd RocketShoes
-```
-
 Follow the steps below
 
 ```bash
+# Clone the project
+git clone https://github.com/YuriFarnesio/RocketShoes.git
+
+# Access the folder
+cd RocketShoes
+
 # Install the dependencies
 $ yarn
 
 # Start the server
-$ yarn server
+$ yarn start
 
 # Start the project
 $ yarn dev
@@ -45,7 +45,7 @@ $ yarn dev
 
 ## 💻 Project
 
-Extra project from the second chapter of Ignite, where we create a shopping cart hook.
+Extra project from the second chapter of Ignite, where I create a shopping cart hook.
 
 This is a project developed during the second Chapter Bootcamp Ignite ** presented by ** [@Rocketseat](https://github.com/Rocketseat) \*\*.
 
@@ -58,3 +58,6 @@ You can view the project template through the links below:
 ## 📝 License
 
 This project is licensed under the MIT License.
+
+<hr />
+<p>by Yur Farnesio :wave: <a href="https://linktr.ee/YuriFarnesio">Get in touch!</a></p>
