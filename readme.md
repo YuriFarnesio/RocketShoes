@@ -45,7 +45,7 @@ $ yarn dev
 
 ## 💻 Project
 
-Extra project from the second chapter of Ignite, where I create a shopping cart hook.
+Challenge from the second chapter of Ignite, where I create a shopping cart hook.
 
 This is a project developed during the second Chapter Bootcamp Ignite ** presented by ** [@Rocketseat](https://github.com/Rocketseat) \*\*.
 
